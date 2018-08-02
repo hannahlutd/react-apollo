@@ -12,7 +12,7 @@
     "react-dom": "^16.2.0"
   },
   "devDependencies": {
-    "@types/graphql": "0.12.7",
+    "@types/graphql": "0.13.3",
     "@types/jest": "23.3.1",
     "@types/node": "10.5.4",
     "@types/prop-types": "15.5.4",
